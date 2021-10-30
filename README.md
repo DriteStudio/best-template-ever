@@ -4,8 +4,8 @@ Clone me and run
 
 ```bash
 # NPM USER
-git clone https://github.com/yaoiboiii/best-template-ever.git && cd best-template-ever && npm install
+git clone https://github.com/DriteStudio/best-template-ever.git && cd best-template-ever && npm install
 
 # YARN USER
-git clone https://github.com/yaoiboiii/best-template-ever.git && cd best-template-ever && yarn install
+git clone https://github.com/DriteStudio/best-template-ever.git && cd best-template-ever && yarn install
 ```
